@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Examples_008_2friends_and_dog/1.0.0": {
+        "runtime": {
+          "Examples_008_2friends_and_dog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examples_008_2friends_and_dog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
