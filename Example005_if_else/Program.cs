@@ -1,14 +1,10 @@
-﻿Console.Write("What is your name?");
-string 
-
-i(username == "Masha");
-
+﻿Console.WriteLine("What is your name?");
+string username = Console.ReadLine();
+if (username == "Masha")
 {
-    Console.WriteLine("Pizdets")
+   Console.WriteLine("Radost nasha");  
 }
 else
-{
-    
-    Console.WriteLine("Hey You")
-
+{   
+    Console.WriteLine("Privet v obed");
 }
