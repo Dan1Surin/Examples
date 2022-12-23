@@ -1,0 +1,15 @@
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\Example013.csproj.AssemblyReference.cache
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\Example013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\Example013.AssemblyInfoInputs.cache
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\Example013.AssemblyInfo.cs
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\Example013.csproj.CoreCompileInputs.cache
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\bin\Debug\net7.0\Example013.exe
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\bin\Debug\net7.0\Example013.deps.json
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\bin\Debug\net7.0\Example013.runtimeconfig.json
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\bin\Debug\net7.0\Example013.dll
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\bin\Debug\net7.0\Example013.pdb
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\Example013.dll
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\refint\Example013.dll
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\Example013.pdb
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\Example013.genruntimeconfig.cache
+C:\Users\dan1s\OneDrive\Документы\Examples\Example013\obj\Debug\net7.0\ref\Example013.dll
